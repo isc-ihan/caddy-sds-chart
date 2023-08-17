@@ -90,9 +90,4 @@ affinity: {}
 management:
     enabled: true
     hostname: "localhost"
-    port: "8000"
-
-quickfix:
-    enabled: true
-    hostname: "localhost"
-    port: "3001"
+    port: "4201"
