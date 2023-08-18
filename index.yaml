@@ -7,12 +7,12 @@ entries:
       intersystems/sds-title: SDS Caddy
     apiVersion: v2
     appVersion: latest
-    created: "2023-08-17T15:33:45.90219552-04:00"
+    created: "2023-08-18T09:19:54.509041128-04:00"
     description: A Helm chart for Kubernetes
-    digest: a6a98c692717cbc0a3689c0271d2bc27f13f0823e0cd39ddaa05d499413fc811
+    digest: 1678c090784e01d1e48ec10033707166b79b0e56b330a876e10eebb00053192d
     name: sds-caddy
     type: application
     urls:
     - https://isc-ihan.github.io/caddy-sds-chart/sds-caddy-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-17T15:33:45.901694329-04:00"
+generated: "2023-08-18T09:19:54.507500859-04:00"
