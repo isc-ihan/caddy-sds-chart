@@ -11,6 +11,7 @@ entries:
     description: A Helm chart for Kubernetes
     digest: 1678c090784e01d1e48ec10033707166b79b0e56b330a876e10eebb00053192d
     name: sds-caddy
+    icon: https://isc-ihan.github.io/caddy-sds-chart/caddy/icon.png
     type: application
     urls:
     - https://isc-ihan.github.io/caddy-sds-chart/sds-caddy-0.1.0.tgz
